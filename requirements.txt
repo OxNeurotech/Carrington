@@ -1,0 +1,8 @@
+brainflow==5.8.2
+matplotlib==3.7.2
+numpy==1.25.1
+pandas==2.0.3
+pyautogui==0.9.54
+pylsl==1.16.1
+pyqtgraph==0.13.3
+sounddevice==0.4.6
