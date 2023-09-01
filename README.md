@@ -16,3 +16,14 @@ Probably the industry standard for where to pick interview questions from, Leetc
 
 - [ROSALIND](https://rosalind.info/problems/locations/)  
 This is a Bioinformatics coding platform which contextualises the Python programming to the Biological applications we may be more interested in. Completely free, but not as stacked as the other options in terms of number of challenges available.
+
+
+## Data Science
+
+We're working on complicated stuff (the brain is not made of simple matter). We aim to leverage fairly sophisticated techniques in mathematics and computer science to uncover patterns in collected data.
+
+It may feel like a jump from regular old programming challenges shown in the previous section, but the programming part is actually less of the problem in this section. Here, we are using programming to realise the mathematics.
+
+This is a <a href="https://www.statlearning.com">link</a> to a great book for Data Science.
+
+Apart from this, there are so many courses available online tackling concepts like Data Science, Machine Learning, blah blah blah... My only suggestion is that you decide on and stick with *1*.
